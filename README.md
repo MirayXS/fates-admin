@@ -14,3 +14,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/ma
 
 ## Plugins
 please view the [wiki](https://github.com/fatesc/fates-admin/wiki/Plugins) for more information
+
+## Contact
+
+[Discord](https://discord.gg/XqT8hEq3Mr)
